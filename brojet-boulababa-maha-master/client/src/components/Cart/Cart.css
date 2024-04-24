@@ -1,0 +1,22 @@
+.cart
+ {
+   
+   background-color: #5debd8a3;
+   width: 300px;
+    justify-content: space-around;
+    margin: 40px 40px;
+    padding: 20px 20px;
+    border-radius: 10px;
+    box-shadow: 26px 33px 175px -1px #c5ff9563;
+-webkit-box-shadow: 26px 33px 175px -1px #C5FF95;
+}
+.cart img{
+   
+    width: 50%;
+     border-radius: 100px;
+ }
+ .cart p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+    color: #074173;
+ }
